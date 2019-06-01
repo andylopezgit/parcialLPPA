@@ -1,0 +1,154 @@
+header{
+
+    display: flex;
+    flex-direction: row;
+}
+
+header nav ul li a{
+
+    
+}
+
+main {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+main header {
+
+display: flex;
+flex-direction: column;
+
+}
+
+.flex{
+
+    
+}
+
+
+.art-style{
+
+    width: 20vw;
+    height: 40vh;
+    background-color: blue;
+    display: flex;
+    align-content: space-around;
+    margin: 1%;
+    float: left;
+
+}
+
+.art1{
+
+    background-image: url('./img/pic01.jpg')
+}
+
+.art1 p{
+
+    align-content: center;
+
+}
+
+.art1:hover{
+
+    background-image: none;
+    background-color: blueviolet;
+    -webkit-transform:scale(1.1);
+    -webkit-transition:all .5s ease;
+}
+
+.art2{
+
+    background-image: url('./img/pic02.jpg')
+
+    
+}
+
+.art2:hover{
+
+    background-image: none;
+    background-color: brown;
+    -webkit-transform:scale(1.1);
+    -webkit-transition:all .5s ease;
+}
+
+.art3{
+
+    background-image: url('./img/pic13.jpg')
+}
+
+.art3:hover{
+
+    background-image: none;
+    background-color: green;
+    -webkit-transform:scale(1.1);
+    -webkit-transition:all .5s ease;
+}
+.art4{
+
+    background-image: url('./img/pic01.jpg')
+
+}
+
+.art4:hover{
+
+    background-image: none;
+    background-color:yellowgreen;
+    -webkit-transform:scale(1.1);
+    -webkit-transition:all .5s ease;
+}
+.art5{
+
+    background-image: url('./img/pic01.jpg')
+}
+
+.art5:hover{
+
+    background-image: none;
+    background-color:burlywood;
+    -webkit-transform:scale(1.1);
+    -webkit-transition:all .5s ease;
+}
+.art6{
+
+    background-image: url('./img/pic01.jpg')
+}
+.art7{
+
+    background-image: url('./img/pic01.jpg')
+}
+.art8{
+
+    background-image: url('./img/pic01.jpg')
+}
+.art9{
+
+    background-image: url('./img/pic01.jpg')
+}
+.art10{
+
+    background-image: url('./img/pic01.jpg')
+}
+
+.art11{
+
+    background-image: url('./img/pic01.jpg')
+}
+.art12
+
+    background-image: url('./img/pic01.jpg')
+}
+
+
+
+
+footer{
+
+    display: flex;
+    flex-direction: row;
+    height: 20vh;
+}
